@@ -1,0 +1,10 @@
+{
+    "nsql": {
+        "datasource": {
+            "pgtest": {
+                "driver": "./test/nsql-pg",
+                "params": {}
+            }
+        }
+    }
+}
